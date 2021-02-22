@@ -1,0 +1,224 @@
+
+
+********************************************
+Calling function waste_time
+Arguments:
+	- one of type str
+
+	- 2 of type int
+
+	- 3 of type str
+
+Output: 
+Wasting Time
+Execution time 5.00225 s
+Return value: ('one', 2, '3') of type str
+********************************************
+
+********************************************
+Calling function gcd
+Arguments:
+	- 15 of type int
+
+	- 9 of type int
+
+Output: 
+THE GCD of  15  and 9  is 6
+Execution time 0.00001 s
+Return value: 6 of type str
+********************************************
+
+********************************************
+Calling function print_goodbye
+Arguments:
+Output: 
+Goodbye!
+Execution time 0.00000 s
+Return value: None of type str
+********************************************
+
+********************************************
+Calling function waste_time
+Arguments:
+	- one of type str
+
+	- 2 of type int
+
+	- 3 of type str
+
+Output: 
+Wasting Time
+Execution time 5.00002 s
+Return value: ('one', 2, '3') of type str
+********************************************
+
+********************************************
+Calling function gcd
+Arguments:
+	- 15 of type int
+
+	- 9 of type int
+
+Output: 
+THE GCD of  15  and 9  is 6
+Execution time 0.00002 s
+Return value: 6 of type str
+********************************************
+
+********************************************
+Calling function print_goodbye
+Arguments:
+Output: 
+Goodbye!
+Execution time 0.00001 s
+Return value: None of type str
+********************************************
+
+********************************************
+Calling function waste_time
+Arguments:
+	- one of type str
+
+	- 2 of type int
+
+	- 3 of type str
+
+Output: 
+Wasting Time
+Execution time 5.00003 s
+Return value: ('one', 2, '3') of type str
+********************************************
+
+********************************************
+Calling function gcd
+Arguments:
+	- 15 of type int
+
+	- 9 of type int
+
+Output: 
+THE GCD of  15  and 9  is 6
+Execution time 0.00002 s
+Return value: 6 of type str
+********************************************
+
+********************************************
+Calling function print_goodbye
+Arguments:
+Output: 
+Goodbye!
+Execution time 0.00001 s
+Return value: None of type str
+********************************************
+
+********************************************
+Calling function waste_time
+Arguments:
+	- one of type str
+
+	- 2 of type int
+
+	- 3 of type str
+
+Output: 
+Wasting Time
+Execution time 5.00029 s
+Return value: ('one', 2, '3') of type str
+********************************************
+
+********************************************
+Calling function gcd
+Arguments:
+	- 15 of type int
+
+	- 9 of type int
+
+Output: 
+THE GCD of  15  and 9  is 6
+Execution time 0.00004 s
+Return value: 6 of type str
+********************************************
+
+********************************************
+Calling function print_goodbye
+Arguments:
+Output: 
+Goodbye!
+Execution time 0.00000 s
+Return value: None of type str
+********************************************
+
+********************************************
+Calling function waste_time
+Arguments:
+	- one of type str
+
+	- 2 of type int
+
+	- 3 of type str
+
+Output: 
+Wasting Time
+Execution time 5.00016 s
+Return value: ('one', 2, '3') of type str
+********************************************
+
+********************************************
+Calling function gcd
+Arguments:
+	- 15 of type int
+
+	- 9 of type int
+
+Output: 
+THE GCD of  15  and 9  is 6
+Execution time 0.00001 s
+Return value: 6 of type str
+********************************************
+
+********************************************
+Calling function print_goodbye
+Arguments:
+Output: 
+Goodbye!
+Execution time 0.00001 s
+Return value: None of type str
+********************************************
+
+********************************************
+Calling function waste_time
+Arguments:
+	- one of type str
+
+	- 2 of type int
+
+	- 3 of type str
+
+Output: 
+Wasting Time
+Execution time 5.00070 s
+Return value: ('one', 2, '3') of type str
+********************************************
+
+********************************************
+Calling function gcd
+Arguments:
+	- 15 of type int
+
+	- 9 of type int
+
+Output: 
+THE GCD of  15  and 9  is 6
+Execution time 0.00002 s
+Return value: 6 of type str
+********************************************
+
+********************************************
+Calling function print_goodbye
+Arguments:
+Output: 
+Goodbye!
+Execution time 0.00000 s
+Return value: None of type str
+********************************************
+
